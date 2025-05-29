@@ -75,6 +75,6 @@ aws ec2 run-instances --image-id ami-12345678 --count 1 --instance-type t2.micro
 - Implement **CI/CD pipelines** for automation
 
 ## Contributors
-- **Mohamed Elweza**  
-- **Nader Ashour**
+- **Mohamed Elteir**  
+
 
